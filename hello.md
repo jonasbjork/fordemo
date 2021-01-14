@@ -4,11 +4,11 @@
 Nice to see you
 
 
-/Jonas is gone../
+_Jonas is gone.._
 
 ## Headline 2
 
-*bold text*
+**bold text**
 
 _italic text_
 
