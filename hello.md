@@ -1,7 +1,7 @@
 Hello Lernia
 Nice to see you
 
-Jonas was here...
+Jonas is gone..
 
 2021 is a great year!
 
